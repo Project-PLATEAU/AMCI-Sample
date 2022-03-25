@@ -1,0 +1,139 @@
+@import 'resources/_variables';
+
+html {
+  box-sizing: border-box;
+  font-family: sans-serif;
+  font-size: 62.5%;
+  line-height: 1.5;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+body {
+  position: relative;
+  font-size: 1.6rem;
+  font-feature-settings: 'palt';
+  color: $base;
+  letter-spacing: 0.05em;
+  background: #fff;
+}
+
+a {
+  text-decoration: underline;
+
+  &:hover {
+    text-decoration: none;
+  }
+}
+
+// scroll bars
+::-webkit-scrollbar {
+  width: 19px;
+}
+
+::-webkit-scrollbar-track {
+  border-left: 1px solid $base;
+}
+
+::-webkit-scrollbar-thumb {
+  background: $purple;
+  background-clip: content-box;
+  border-top: 1px solid transparent;
+  border-right: 1px solid transparent;
+  border-bottom: 1px solid transparent;
+  border-left: 2px solid transparent;
+}
+
+// vue transitions
+.modal-enter-active,
+.modal-leave-active {
+  transition: opacity $fade-duration, transform $fade-duration;
+}
+
+.modal-enter,
+.modal-leave-to {
+  opacity: 0;
+}
+
+.fade-enter-active,
+.fade-leave-active {
+  transition: opacity $fade-duration;
+}
+
+.fade-enter,
+.fade-leave-to {
+  opacity: 0;
+}
+
+.hoverable {
+  position: relative;
+  overflow: hidden;
+
+  // background
+  &::before {
+    position: absolute;
+    right: -1px;
+    bottom: 0;
+    left: -1px;
+    z-index: -1;
+    height: 0;
+    content: '';
+    background: $cyan;
+    transition: height $nav-transition;
+    transform: scaleY(-1);
+  }
+
+  &.selected {
+    .content {
+      transform: translate3d(0, -100%, 0);
+
+      &.hover {
+        color: $base;
+      }
+    }
+
+    &::before {
+      position: absolute;
+      top: 0;
+      right: -1px;
+      left: -1px;
+      height: 10px;
+      content: '';
+    }
+  }
+
+  // content
+  .content {
+    color: $base;
+    transition: transform $nav-transition, color $nav-transition;
+
+    &.hover {
+      position: absolute;
+      top: 100%;
+      color: #fff;
+    }
+  }
+
+  &:hover:not(.selected) {
+    /* background: $cyan; */
+    &::before {
+      height: 100%;
+    }
+
+    .content {
+      transform: translate3d(0, -100%, 0);
+    }
+  }
+}
+
+// carousel
+.VueCarousel-dot-container {
+  margin-top: 0 !important;
+}
+
+.VueCarousel-dot {
+  margin-top: 8px !important;
+  outline: none !important;
+}

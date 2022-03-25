@@ -1,0 +1,311 @@
+{
+"1_OtemachiParkBld": {
+  "area": "otemachi"
+},
+"2_OtemachiBld": {
+  "area": "otemachi"
+},
+"3_ShinOtemachiBld": {
+  "area": "otemachi"
+},
+"4_OtemachiPlace": {
+  "area": "otemachi"
+},
+"5_TokyoSankeiBld": {
+  "area": "otemachi"
+},
+"6_KDDIOtemachiBld": {
+  "area": "otemachi"
+},
+"7_OtemachiCC": {
+  "area": "otemachi"
+},
+"8_OtemachiTowerENEOSBld": {
+  "area": "otemachi"
+},
+"9_OtemachiFirstSquare": {
+  "area": "otemachi"
+},
+"10_MarunouchiBld": {
+  "area": "marunouchi"
+},
+"11_SHinMaruBld": {
+  "area": "marunouchi"
+},
+"12_MarunouchiOazo": {
+  "area": "marunouchi"
+},
+"13_MarunouchiMitsubishiBld": {
+  "area": "marunouchi"
+},
+"14_MarunouchiParkBld": {
+  "area": "marunouchi"
+},
+"15_ShinTokyoBld": {
+  "area": "yurakucho"
+},
+"16_GranstaMarunouchi": {
+  "area": "marunouchi"
+},
+"17_MarunouchiChomeBld": {
+  "area": "marunouchi"
+},
+"18_KokusaiBld": {
+  "area": "yurakucho"
+},
+"19_MarunouchiTerrace": {
+  "area": "marunouchi"
+},
+"20_MarunouchMyPlaza": {
+  "area": "marunouchi"
+},
+"21_YurakuchoBld": {
+  "area": "yurakucho"
+},
+"22_DNTower21": {
+  "area": "yurakucho"
+},
+"24_ShinYurakuchoBld": {
+  "area": "yurakucho"
+},
+"25_TokiwabashiTower": {
+  "area": "otemachi"
+},
+"25_YurakuchoBld": {
+  "area": "yurakucho"
+},
+"26_NijubashiSquare": {
+  "area": "yurakucho"
+},
+"27_MarunouchiEirakuBld": {
+  "area": "marunouchi"
+},
+"25_YurakuchoBld009": {
+  "area": "yurakucho"
+},
+"25_YurakuchoBld010": {
+  "area": "yurakucho"
+},
+"25_YurakuchoBld011": {
+  "area": "yurakucho"
+},
+"25_YurakuchoBld004": {
+  "area": "yurakucho"
+},
+"25_YurakuchoBld003": {
+  "area": "yurakucho"
+},
+"90_OtemachiBld008": {
+  "area": "otemachi"
+},
+"90_OtemachiBld012": {
+  "area": "otemachi"
+},
+"90_OtemachiBld021": {
+  "area": "otemachi"
+},
+"90_OtemachiBld014": {
+  "area": "otemachi"
+},
+"90_OtemachiBld011": {
+  "area": "otemachi"
+},
+"90_OtemachiBld010": {
+  "area": "otemachi"
+},
+"90_OtemachiBld020": {
+  "area": "otemachi"
+},
+"90_OtemachiBld013": {
+  "area": "otemachi"
+},
+"90_OtemachiBld022": {
+  "area": "otemachi"
+},
+"90_OtemachiBld019": {
+  "area": "otemachi"
+},
+"90_OtemachiBld004": {
+  "area": "otemachi"
+},
+"90_OtemachiBld018": {
+  "area": "otemachi"
+},
+"90_OtemachiBld009": {
+  "area": "otemachi"
+},
+"90_OtemachiBld005": {
+  "area": "otemachi"
+},
+"90_OtemachiBld017": {
+  "area": "otemachi"
+},
+"90_OtemachiBld015": {
+  "area": "otemachi"
+},
+"90_OtemachiBld007": {
+  "area": "otemachi"
+},
+"90_OtemachiBld006": {
+  "area": "otemachi"
+},
+"90_OtemachiBld001": {
+  "area": "marunouchi"
+},
+"90_OtemachiBld003": {
+  "area": "otemachi"
+},
+"90_OtemachiBld024": {
+  "area": "marunouchi"
+},
+"90_OtemachiBld002": {
+  "area": "otemachi"
+},
+"90_OtemachiBld016": {
+  "area": "otemachi"
+},
+"90_OtemachiBld023": {
+  "area": "marunouchi"
+},
+"90_OtemachiBld": {
+  "area": "marunouchi"
+},
+"91_Marunouchi012": {
+  "area": "marunouchi"
+},
+"91_Marunouchi017": {
+  "area": "marunouchi"
+},
+"91_Marunouchi005": {
+  "area": "marunouchi"
+},
+"91_Marunouchi002": {
+  "area": "marunouchi"
+},
+"91_Marunouchi014": {
+  "area": "marunouchi"
+},
+"91_Marunouchi001": {
+  "area": "marunouchi"
+},
+"91_Marunouchi008": {
+  "area": "marunouchi"
+},
+"91_Marunouchi004": {
+  "area": "marunouchi"
+},
+"91_Marunouchi003": {
+  "area": "marunouchi"
+},
+"91_Marunouchi009": {
+  "area": "marunouchi"
+},
+"91_Marunouchi010": {
+  "area": "marunouchi"
+},
+"91_Marunouchi006": {
+  "area": "marunouchi"
+},
+"91_Marunouchi011": {
+  "area": "marunouchi"
+},
+"91_Marunouchi013": {
+  "area": "marunouchi"
+},
+"91_Marunouchi016": {
+  "area": "marunouchi"
+},
+"91_Marunouchi": {
+  "area": "marunouchi"
+},
+"91_Marunouchi015": {
+  "area": "marunouchi"
+},
+"92_TokyoSt001": {
+  "area": "marunouchi"
+},
+"92_TokyoSt015": {
+  "area": "marunouchi"
+},
+"92_TokyoSt014": {
+  "area": "marunouchi"
+},
+"92_TokyoSt004": {
+  "area": "marunouchi"
+},
+"92_TokyoSt018": {
+  "area": "marunouchi"
+},
+"92_TokyoSt011": {
+  "area": "marunouchi"
+},
+"92_TokyoSt003": {
+  "area": "marunouchi"
+},
+"92_TokyoSt009": {
+  "area": "marunouchi"
+},
+"92_TokyoSt013": {
+  "area": "marunouchi"
+},
+"92_TokyoSt008": {
+  "area": "marunouchi"
+},
+"92_TokyoSt007": {
+  "area": "marunouchi"
+},
+"92_TokyoSt017": {
+  "area": "marunouchi"
+},
+"92_TokyoSt": {
+  "area": "marunouchi"
+},
+"92_TokyoSt006": {
+  "area": "marunouchi"
+},
+"92_TokyoSt005": {
+  "area": "marunouchi"
+},
+"92_TokyoSt002": {
+  "area": "marunouchi"
+},
+"92_TokyoSt016": {
+  "area": "marunouchi"
+},
+"92_TokyoSt012": {
+  "area": "marunouchi"
+},
+"92_TokyoSt010": {
+  "area": "marunouchi"
+},
+"93_YurakuchoSt003": {
+  "area": "yurakucho"
+},
+"93_YurakuchoSt004": {
+  "area": "yurakucho"
+},
+"93_YurakuchoSt007": {
+  "area": "yurakucho"
+},
+"93_YurakuchoSt": {
+  "area": "yurakucho"
+},
+"93_YurakuchoSt009": {
+  "area": "yurakucho"
+},
+"93_YurakuchoSt005": {
+  "area": "yurakucho"
+},
+"93_YurakuchoSt001": {
+  "area": "yurakucho"
+},
+"93_YurakuchoSt002": {
+  "area": "yurakucho"
+},
+"93_YurakuchoSt006": {
+  "area": "yurakucho"
+},
+"93_YurakuchoSt008": {
+  "area": "yurakucho"
+}}
+

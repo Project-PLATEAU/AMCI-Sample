@@ -1,0 +1,2110 @@
+{
+  "totalParticipants": 2272,
+  "co2reducations": 2214533.3000000305,
+  "areaData": {
+    "yurakucho": {
+      "co2reducations": 669830.72,
+      "point": 140210
+    },
+    "otemachi": {
+      "co2reducations": 1461803.6199999996,
+      "point": 320030
+    },
+    "marunouchi": {
+      "co2reducations": 82898.95999999877,
+      "point": 195520
+    }
+  },
+  "medicalExpensesReducations": 14612544,
+  "totalWalks": 202952000,
+  "totalWalksDistance": 0.369579604578564,
+  "totalPoints": 947272,
+  "firstDate": 1620601200000,
+  "lastDate": 1638280800000,
+  "recentActivities": {
+    "8月": 9,
+    "9月": 26,
+    "10月": 40,
+    "11月": 25
+  },
+  "venues": [
+    {
+      "id": 1,
+      "name": "三菱地所",
+      "address": "大手町1-1-1",
+      "building": "大手町パークビル",
+      "area": "Otemachi",
+      "acts": [
+        "ACT1",
+        "ACT2",
+        "ACT3",
+        "ACT5"
+      ],
+      "actData": {
+        "ACT1": {
+          "sdgs": [
+            2,
+            6,
+            9,
+            12,
+            13,
+            14,
+            15
+          ],
+          "titles": [
+            {
+              "name": "社食でのサステナブル食材の普及",
+              "link": "https://act-5.jp/act/2021act1-2/"
+            },
+            {
+              "name": "ACT5 PLAZAイベント（三菱地所社内）",
+              "link": ""
+            }
+          ],
+          "point": 9200
+        },
+        "ACT2": {
+          "sdgs": [
+            9,
+            11,
+            12,
+            13,
+            14,
+            15,
+            17
+          ],
+          "titles": [
+            {
+              "name": "使わなくなった衣類の回収",
+              "link": "https://act-5.jp/act/2021act2-3/"
+            },
+            {
+              "name": "IDEAS FOR GOODオンラインイベント",
+              "link": ""
+            },
+            {
+              "name": "イベント「マシンガンズ滝沢さんと考えるゴミ問題」",
+              "link": ""
+            },
+            {
+              "name": "ACT5 PLAZAイベント（三菱地所社内）",
+              "link": ""
+            }
+          ],
+          "point": 38400
+        },
+        "ACT3": {
+          "sdgs": [
+            3,
+            5,
+            8
+          ],
+          "titles": [
+            {
+              "name": "IDEAS FOR GOODオンラインイベント",
+              "link": ""
+            },
+            {
+              "name": "ACT5 PLAZAイベント（三菱地所社内）",
+              "link": ""
+            }
+          ],
+          "point": 5200
+        },
+        "ACT5": {
+          "sdgs": [
+            11,
+            12,
+            17
+          ],
+          "titles": [
+            {
+              "name": "IDEAS FOR GOOD チェックイン",
+              "link": ""
+            }
+          ],
+          "point": 1060
+        }
+      }
+    },
+    {
+      "id": 2,
+      "name": "スターバックス丸の内ビル店",
+      "address": "丸の内2-4-1",
+      "building": "丸の内ビル",
+      "area": "Marunouchi",
+      "acts": [
+        "ACT2"
+      ],
+      "actData": {
+        "ACT2": {
+          "sdgs": [
+            12,
+            13,
+            15,
+            17
+          ],
+          "titles": [
+            {
+              "name": "マイボトル・マイカップ利用",
+              "link": "https://act-5.jp/act/2021act2-1/"
+            }
+          ],
+          "point": 760
+        }
+      }
+    },
+    {
+      "id": 3,
+      "name": "スターバックス新丸ビル店",
+      "address": "丸の内1-5-1",
+      "building": "新丸ビル",
+      "area": "Marunouchi",
+      "acts": [
+        "ACT2"
+      ],
+      "actData": {
+        "ACT2": {
+          "sdgs": [
+            12,
+            13,
+            15,
+            17
+          ],
+          "titles": [
+            {
+              "name": "マイボトル・マイカップ利用",
+              "link": "https://act-5.jp/act/2021act2-1/"
+            }
+          ],
+          "point": 300
+        }
+      }
+    },
+    {
+      "id": 4,
+      "name": "スターバックス丸の内オアゾ店",
+      "address": "丸の内1-6-2",
+      "building": "丸の内オアゾ",
+      "area": "Marunouchi",
+      "acts": [
+        "ACT2"
+      ],
+      "actData": {
+        "ACT2": {
+          "sdgs": [
+            12,
+            13,
+            15,
+            17
+          ],
+          "titles": [
+            {
+              "name": "マイボトル・マイカップ利用",
+              "link": "https://act-5.jp/act/2021act2-1/"
+            }
+          ],
+          "point": 320
+        }
+      }
+    },
+    {
+      "id": 5,
+      "name": "スターバックス大手町ビル店",
+      "address": "大手町1-6-1",
+      "building": "大手町ビル",
+      "area": "Otemachi",
+      "acts": [
+        "ACT2"
+      ],
+      "actData": {
+        "ACT2": {
+          "sdgs": [
+            12,
+            13,
+            15,
+            17
+          ],
+          "titles": [
+            {
+              "name": "マイボトル・マイカップ利用",
+              "link": "https://act-5.jp/act/2021act2-1/"
+            }
+          ],
+          "point": 80
+        }
+      }
+    },
+    {
+      "id": 6,
+      "name": "スターバックス新大手町ビル店",
+      "address": "大手町2-2-1",
+      "building": "新大手町ビル",
+      "area": "Otemachi",
+      "acts": [
+        "ACT2"
+      ],
+      "actData": {
+        "ACT2": {
+          "sdgs": [
+            12,
+            13,
+            15,
+            17
+          ],
+          "titles": [
+            {
+              "name": "マイボトル・マイカップ利用",
+              "link": "https://act-5.jp/act/2021act2-1/"
+            }
+          ],
+          "point": 20
+        }
+      }
+    },
+    {
+      "id": 7,
+      "name": "スターバックス丸の内三菱ビル店",
+      "address": "丸の内2-5-2",
+      "building": "丸の内三菱ビル",
+      "area": "Marunouchi",
+      "acts": [
+        "ACT2"
+      ],
+      "actData": {
+        "ACT2": {
+          "sdgs": [
+            12,
+            13,
+            15,
+            17
+          ],
+          "titles": [
+            {
+              "name": "マイボトル・マイカップ利用",
+              "link": "https://act-5.jp/act/2021act2-1/"
+            }
+          ],
+          "point": 130
+        }
+      }
+    },
+    {
+      "id": 8,
+      "name": "スターバックス丸の内パークビル店",
+      "address": "丸の内2-6-1",
+      "building": "丸の内パークビル",
+      "area": "Marunouchi",
+      "acts": [
+        "ACT2"
+      ],
+      "actData": {
+        "ACT2": {
+          "sdgs": [
+            12,
+            13,
+            15,
+            17
+          ],
+          "titles": [
+            {
+              "name": "マイボトル・マイカップ利用",
+              "link": "https://act-5.jp/act/2021act2-1/"
+            }
+          ],
+          "point": 200
+        }
+      }
+    },
+    {
+      "id": 9,
+      "name": "スターバックス丸の内新東京ビル店",
+      "address": "丸の内3-3-1",
+      "building": "新東京ビル",
+      "area": "Marunouchi",
+      "acts": [
+        "ACT2"
+      ],
+      "actData": {
+        "ACT2": {
+          "sdgs": [
+            12,
+            13,
+            15,
+            17
+          ],
+          "titles": [
+            {
+              "name": "マイボトル・マイカップ利用",
+              "link": "https://act-5.jp/act/2021act2-1/"
+            }
+          ],
+          "point": 2360
+        }
+      }
+    },
+    {
+      "id": 10,
+      "name": "スターバックス有楽町ビル１階店",
+      "address": "有楽町1-10-1",
+      "building": "有楽町ビル(1F)",
+      "area": "Yurakucho",
+      "acts": [
+        "ACT2"
+      ],
+      "actData": {
+        "ACT2": {
+          "sdgs": [
+            12,
+            13,
+            15,
+            17
+          ],
+          "titles": [
+            {
+              "name": "マイボトル・マイカップ利用",
+              "link": "https://act-5.jp/act/2021act2-1/"
+            }
+          ],
+          "point": 40
+        }
+      }
+    },
+    {
+      "id": 11,
+      "name": "スターバックス有楽町ビル地下１階店",
+      "address": "有楽町1-10-1",
+      "building": "有楽町ビル(B1F)",
+      "area": "Yurakucho",
+      "acts": [
+        "ACT2"
+      ],
+      "actData": {
+        "ACT2": {
+          "sdgs": [
+            12,
+            13,
+            15,
+            17
+          ],
+          "titles": [
+            {
+              "name": "マイボトル・マイカップ利用",
+              "link": "https://act-5.jp/act/2021act2-1/"
+            }
+          ],
+          "point": 40
+        }
+      }
+    },
+    {
+      "id": 12,
+      "name": "スターバックスグランスタ丸の内店",
+      "address": "丸の内1-9-1",
+      "building": "グランスタ丸の内",
+      "area": "Marunouchi",
+      "acts": [
+        "ACT2"
+      ],
+      "actData": {
+        "ACT2": {
+          "sdgs": [
+            12,
+            13,
+            15,
+            17
+          ],
+          "titles": [
+            {
+              "name": "マイボトル・マイカップ利用",
+              "link": "https://act-5.jp/act/2021act2-1/"
+            }
+          ],
+          "point": 0
+        }
+      }
+    },
+    {
+      "id": 13,
+      "name": "スターバックス大手町プレイス店",
+      "address": "大手町2-3-1",
+      "building": "大手町プレイス",
+      "area": "Otemachi",
+      "acts": [
+        "ACT2"
+      ],
+      "actData": {
+        "ACT2": {
+          "sdgs": [
+            12,
+            13,
+            15,
+            17
+          ],
+          "titles": [
+            {
+              "name": "マイボトル・マイカップ利用",
+              "link": "https://act-5.jp/act/2021act2-1/"
+            }
+          ],
+          "point": 10
+        }
+      }
+    },
+    {
+      "id": 14,
+      "name": "スターバックス大手町東京サンケイビル店",
+      "address": "大手町1-7-2",
+      "building": "東京サンケイビル",
+      "area": "Otemachi",
+      "acts": [
+        "ACT2"
+      ],
+      "actData": {
+        "ACT2": {
+          "sdgs": [
+            12,
+            13,
+            15,
+            17
+          ],
+          "titles": [
+            {
+              "name": "マイボトル・マイカップ利用",
+              "link": "https://act-5.jp/act/2021act2-1/"
+            }
+          ],
+          "point": 0
+        }
+      }
+    },
+    {
+      "id": 15,
+      "name": "スターバックスKDDI大手町ビル店",
+      "address": "大手町1-8-1",
+      "building": "KDDI大手町ビル",
+      "area": "Otemachi",
+      "acts": [
+        "ACT2"
+      ],
+      "actData": {
+        "ACT2": {
+          "sdgs": [
+            12,
+            13,
+            15,
+            17
+          ],
+          "titles": [
+            {
+              "name": "マイボトル・マイカップ利用",
+              "link": "https://act-5.jp/act/2021act2-1/"
+            }
+          ],
+          "point": 70
+        }
+      }
+    },
+    {
+      "id": 16,
+      "name": "スターバックス大手町カンファレンスセンター店",
+      "address": "大手町1-3-2",
+      "building": "大手町カンファレンスセンター",
+      "area": "Otemachi",
+      "acts": [
+        "ACT2"
+      ],
+      "actData": {
+        "ACT2": {
+          "sdgs": [
+            12,
+            13,
+            15,
+            17
+          ],
+          "titles": [
+            {
+              "name": "マイボトル・マイカップ利用",
+              "link": "https://act-5.jp/act/2021act2-1/"
+            }
+          ],
+          "point": 0
+        }
+      }
+    },
+    {
+      "id": 17,
+      "name": "ROUTE CAFÉ AND THINGS",
+      "address": "丸の内2-4-1",
+      "building": "丸の内ビル",
+      "area": "Marunouchi",
+      "acts": [
+        "ACT2",
+        "ACT3",
+        "ACT5"
+      ],
+      "actData": {
+        "ACT2": {
+          "sdgs": [
+            3,
+            12,
+            13,
+            14,
+            15,
+            17
+          ],
+          "titles": [
+            {
+              "name": "マイボトル・マイカップ利用",
+              "link": "https://act-5.jp/act/2021act2-1/"
+            },
+            {
+              "name": "エコバッグ利用・ショッパー辞退",
+              "link": "https://act-5.jp/act/2021act2-2/"
+            },
+            {
+              "name": "イベント「絵本から考えるSDGs」",
+              "link": ""
+            }
+          ],
+          "point": 3010
+        },
+        "ACT3": {
+          "sdgs": [
+            1,
+            2,
+            3,
+            4,
+            13,
+            15
+          ],
+          "titles": [
+            {
+              "name": "読まなくなった本の寄付",
+              "link": "https://act-5.jp/act/2021act3-3/"
+            }
+          ],
+          "point": 9040
+        },
+        "ACT5": {
+          "sdgs": [
+            12,
+            17
+          ],
+          "titles": [
+            {
+              "name": "ACT5情報発信拠点へのチェックイン",
+              "link": "https://act-5.jp/act/2021act5-4/"
+            },
+            {
+              "name": "大丸有SDGs映画祭2021",
+              "link": "https://act-5.jp/act/2021film/"
+            }
+          ],
+          "point": 21060
+        }
+      }
+    },
+    {
+      "id": 18,
+      "name": "Marunouchi Happ.Stand & Gallery",
+      "address": "丸の内2-5-1",
+      "building": "丸の内2丁目ビル",
+      "area": "Marunouchi",
+      "acts": [
+        "ACT2",
+        "ACT3"
+      ],
+      "actData": {
+        "ACT2": {
+          "sdgs": [
+            12,
+            13,
+            14,
+            15,
+            17
+          ],
+          "titles": [
+            {
+              "name": "マイボトル・マイカップ利用",
+              "link": "https://act-5.jp/act/2021act2-1/"
+            },
+            {
+              "name": "エコバッグ利用・ショッパー辞退",
+              "link": "https://act-5.jp/act/2021act2-2/"
+            },
+            {
+              "name": "新品エコバッグの有効活用",
+              "link": "https://act-5.jp/act/2021act2-4/"
+            }
+          ],
+          "point": 3610
+        },
+        "ACT3": {
+          "sdgs": [
+            1,
+            2,
+            3,
+            4,
+            13,
+            15
+          ],
+          "titles": [
+            {
+              "name": "読まなくなった本の寄付",
+              "link": "https://act-5.jp/act/2021act3-3/"
+            }
+          ],
+          "point": 1420
+        }
+      }
+    },
+    {
+      "id": 19,
+      "name": "パタゴニア東京・丸の内",
+      "address": "丸の内3-1-1",
+      "building": "国際ビル",
+      "area": "Marunouchi",
+      "acts": [
+        "ACT2"
+      ],
+      "actData": {
+        "ACT2": {
+          "sdgs": [
+            12,
+            13,
+            14,
+            15,
+            17
+          ],
+          "titles": [
+            {
+              "name": "エコバッグ利用・ショッパー辞退",
+              "link": "https://act-5.jp/act/2021act2-2/"
+            },
+            {
+              "name": "新品エコバッグの有効活用",
+              "link": "https://act-5.jp/act/2021act2-4/"
+            },
+            {
+              "name": "衣類修理サービスの利用",
+              "link": "https://act-5.jp/act/2021act2-5/"
+            }
+          ],
+          "point": 15900
+        }
+      }
+    },
+    {
+      "id": 20,
+      "name": "3×3 Lab Future",
+      "address": "大手町1-1-2",
+      "building": "大手門タワー・ENEOSビル",
+      "area": "Otemachi",
+      "acts": [
+        "ACT2",
+        "ACT3",
+        "ACT4",
+        "ACT5"
+      ],
+      "actData": {
+        "ACT2": {
+          "sdgs": [
+            12,
+            13,
+            15,
+            17
+          ],
+          "titles": [
+            {
+              "name": "使わなくなった衣類の回収",
+              "link": "https://act-5.jp/act/2021act2-3/"
+            }
+          ],
+          "point": 93900
+        },
+        "ACT3": {
+          "sdgs": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            8,
+            10,
+            11,
+            12,
+            13,
+            15,
+            16,
+            17
+          ],
+          "titles": [
+            {
+              "name": "読まなくなった本の寄付",
+              "link": "https://act-5.jp/act/2021act3-3/"
+            },
+            {
+              "name": "イベント「世界を知る×アクション」",
+              "link": "https://act-5.jp/act/2021act3-4/"
+            }
+          ],
+          "point": 11180
+        },
+        "ACT5": {
+          "sdgs": [
+            12,
+            16,
+            17
+          ],
+          "titles": [
+            {
+              "name": "ACT5情報発信拠点へのチェックイン",
+              "link": "https://act-5.jp/act/2021act5-4/"
+            },
+            {
+              "name": "東京ビエンナーレ2020/2021 東京影絵クラブ",
+              "link": "https://act-5.jp/act/2021act5-2/"
+            },
+            {
+              "name": "大丸有SDGs映画祭2021",
+              "link": "https://act-5.jp/act/2021film/"
+            }
+          ],
+          "point": 35400
+        },
+        "ACT4": {
+          "sdgs": [
+            5,
+            10,
+            11,
+            17
+          ],
+          "titles": [
+            {
+              "name": "【E＆Jカンファレンス】多様性をEnjoy & Join！",
+              "link": "https://act-5.jp/act/2021act4-4/"
+            }
+          ],
+          "point": 6600
+        }
+      }
+    },
+    {
+      "id": 21,
+      "name": "農林中央金庫",
+      "address": "有楽町1-13-2",
+      "building": "DNタワー21",
+      "area": "Yurakucho",
+      "acts": [
+        "ACT1",
+        "ACT2"
+      ],
+      "actData": {
+        "ACT2": {
+          "sdgs": [
+            12,
+            13,
+            15,
+            17
+          ],
+          "titles": [
+            {
+              "name": "使わなくなった衣類の回収",
+              "link": "https://act-5.jp/act/2021act2-3/"
+            }
+          ],
+          "point": 40600
+        },
+        "ACT1": {
+          "sdgs": [
+            2,
+            6,
+            12,
+            13,
+            15
+          ],
+          "titles": [
+            {
+              "name": "社食でのサステナブル食材の普及",
+              "link": "https://act-5.jp/act/2021act1-5/"
+            }
+          ],
+          "point": 0
+        }
+      }
+    },
+    {
+      "id": 22,
+      "name": "micro FOOD&IDEA MARKET",
+      "address": "有楽町1-10-1",
+      "building": "有楽町ビル",
+      "area": "Yurakucho",
+      "acts": [
+        "ACT2",
+        "ACT4",
+        "ACT5"
+      ],
+      "actData": {
+        "ACT5": {
+          "sdgs": [
+            12,
+            16,
+            17
+          ],
+          "titles": [
+            {
+              "name": "「木彫りの熊」のアップサイクル",
+              "link": "https://act-5.jp/act/2021act5-5/"
+            },
+            {
+              "name": "東京ビエンナーレ2020/2021チェックイン",
+              "link": "https://act-5.jp/act/2021act5-2/"
+            },
+            {
+              "name": "ロイダッツチャリティショップ衣類の回収",
+              "link": "https://act-5.jp/act/2021act5-2/"
+            },
+            {
+              "name": "大丸有SDGs映画祭2021",
+              "link": "https://act-5.jp/act/2021film/"
+            }
+          ],
+          "point": 14450
+        },
+        "ACT2": {
+          "sdgs": [
+            12,
+            13,
+            14,
+            15,
+            17
+          ],
+          "titles": [
+            {
+              "name": "マイボトル・マイカップ利用",
+              "link": "https://act-5.jp/act/2021act2-1/"
+            },
+            {
+              "name": "エコバッグ利用・ショッパー辞退",
+              "link": "https://act-5.jp/act/2021act2-2/"
+            }
+          ],
+          "point": 0
+        },
+        "ACT4": {
+          "sdgs": [
+            3,
+            8,
+            10
+          ],
+          "titles": [
+            {
+              "name": "【試飲イベント＆オンラインセミナー】IBUKIのハーブティー",
+              "link": "https://act-5.jp/act/2021act4-5/"
+            }
+          ],
+          "point": 7000
+        }
+      }
+    },
+    {
+      "id": 23,
+      "name": "コスメティクスアンドメディカル 新丸の内センタービルドラッグ（丸の内オアゾ）",
+      "address": "丸の内1-6-2",
+      "building": "丸の内オアゾ",
+      "area": "Marunouchi",
+      "acts": [
+        "ACT2"
+      ],
+      "actData": {
+        "ACT2": {
+          "sdgs": [
+            12,
+            13,
+            14,
+            15,
+            17
+          ],
+          "titles": [
+            {
+              "name": "ドラッグストアでのレジ袋・ショッパー辞退",
+              "link": "https://act-5.jp/act/2021act2-6/"
+            }
+          ],
+          "point": 130
+        }
+      }
+    },
+    {
+      "id": 24,
+      "name": "コスメティクスアンドメディカル 大手町ファーストスクエアドラッグ",
+      "address": "大手町1-5-1",
+      "building": "大手町ファーストスクエア",
+      "area": "Otemachi",
+      "acts": [
+        "ACT2"
+      ],
+      "actData": {
+        "ACT2": {
+          "sdgs": [
+            12,
+            13,
+            14,
+            15,
+            17
+          ],
+          "titles": [
+            {
+              "name": "ドラッグストアでのレジ袋・ショッパー辞退",
+              "link": "https://act-5.jp/act/2021act2-6/"
+            }
+          ],
+          "point": 510
+        }
+      }
+    },
+    {
+      "id": 25,
+      "name": "コスメティクスアンドメディカル 大手町ビルドラッグ",
+      "address": "大手町1-6-1",
+      "building": "大手町ビル",
+      "area": "Otemachi",
+      "acts": [
+        "ACT2"
+      ],
+      "actData": {
+        "ACT2": {
+          "sdgs": [
+            12,
+            13,
+            14,
+            15,
+            17
+          ],
+          "titles": [
+            {
+              "name": "ドラッグストアでのレジ袋・ショッパー辞退",
+              "link": "https://act-5.jp/act/2021act2-6/"
+            }
+          ],
+          "point": 3600
+        }
+      }
+    },
+    {
+      "id": 26,
+      "name": "コスメティクスアンドメディカル 丸の内テラスドラッグ",
+      "address": "丸の内1-3-4",
+      "building": "丸の内テラス",
+      "area": "Marunouchi",
+      "acts": [
+        "ACT2"
+      ],
+      "actData": {
+        "ACT2": {
+          "sdgs": [
+            12,
+            13,
+            14,
+            15,
+            17
+          ],
+          "titles": [
+            {
+              "name": "ドラッグストアでのレジ袋・ショッパー辞退",
+              "link": "https://act-5.jp/act/2021act2-6/"
+            }
+          ],
+          "point": 210
+        }
+      }
+    },
+    {
+      "id": 27,
+      "name": "コスメティクスアンドメディカル 新有楽町ビルドラッグ",
+      "address": "有楽町1-12-1",
+      "building": "新有楽町ビル",
+      "area": "Yurakucho",
+      "acts": [
+        "ACT2"
+      ],
+      "actData": {
+        "ACT2": {
+          "sdgs": [
+            12,
+            13,
+            14,
+            15,
+            17
+          ],
+          "titles": [
+            {
+              "name": "ドラッグストアでのレジ袋・ショッパー辞退",
+              "link": "https://act-5.jp/act/2021act2-6/"
+            }
+          ],
+          "point": 1220
+        }
+      }
+    },
+    {
+      "id": 28,
+      "name": "コスメティクスアンドメディカル 丸の内マイプラザドラッグ",
+      "address": "丸の内2-1-1",
+      "building": "丸の内マイプラザ",
+      "area": "Marunouchi",
+      "acts": [
+        "ACT2"
+      ],
+      "actData": {
+        "ACT2": {
+          "sdgs": [
+            12,
+            13,
+            14,
+            15,
+            17
+          ],
+          "titles": [
+            {
+              "name": "ドラッグストアでのレジ袋・ショッパー辞退",
+              "link": "https://act-5.jp/act/2021act2-6/"
+            }
+          ],
+          "point": 370
+        }
+      }
+    },
+    {
+      "id": 29,
+      "name": "コスメティクスアンドメディカル 新東京ビルドラッグ",
+      "address": "丸の内3-3-1",
+      "building": "新東京ビル",
+      "area": "Marunouchi",
+      "acts": [
+        "ACT2"
+      ],
+      "actData": {
+        "ACT2": {
+          "sdgs": [
+            12,
+            13,
+            14,
+            15,
+            17
+          ],
+          "titles": [
+            {
+              "name": "ドラッグストアでのレジ袋・ショッパー辞退",
+              "link": "https://act-5.jp/act/2021act2-6/"
+            }
+          ],
+          "point": 900
+        }
+      }
+    },
+    {
+      "id": 30,
+      "name": "ＭＣＳ マルノウチコスメティクスセレクション 新丸ビル店",
+      "address": "丸の内1-5-1",
+      "building": "新丸ビル",
+      "area": "Marunouchi",
+      "acts": [
+        "ACT2"
+      ],
+      "actData": {
+        "ACT2": {
+          "sdgs": [
+            12,
+            13,
+            14,
+            15,
+            17
+          ],
+          "titles": [
+            {
+              "name": "ドラッグストアでのレジ袋・ショッパー辞退",
+              "link": "https://act-5.jp/act/2021act2-6/"
+            }
+          ],
+          "point": 390
+        }
+      }
+    },
+    {
+      "id": 31,
+      "name": "オンライン",
+      "address": "-",
+      "building": "-",
+      "area": "",
+      "acts": [
+        "ACT1",
+        "ACT2",
+        "ACT3",
+        "ACT4",
+        "ACT5"
+      ],
+      "actData": {
+        "ACT2": {
+          "sdgs": [
+            3,
+            4,
+            7,
+            8,
+            9,
+            11,
+            12,
+            13,
+            14,
+            15,
+            17
+          ],
+          "titles": [
+            {
+              "name": "アフター5講座「気候変動・資源循環」",
+              "link": ""
+            },
+            {
+              "name": "アフター５講座「WELL-BEING」",
+              "link": ""
+            },
+            {
+              "name": "イベント「ソーラーシェアリングが地域と世界を救う」",
+              "link": "https://act-5.jp/act/2021act2-7/"
+            },
+            {
+              "name": "イベント「マシンガンズ滝沢さんと考えるゴミ問題」",
+              "link": ""
+            },
+            {
+              "name": "海洋プラゴミセミナー",
+              "link": "https://act-5.jp/act/2021act2-10/"
+            },
+            {
+              "name": "新技術で環境課題解決の道へ突き進む！",
+              "link": "https://act-5.jp/act/2021act2-16/"
+            },
+            {
+              "name": "暮らしやビジネスに再生可能エネルギーを選ぶ",
+              "link": "https://act-5.jp/act/2021act2-17/"
+            },
+            {
+              "name": "イベント「気候変動に挑む農業を知る」",
+              "link": "https://act-5.jp/act/2021act2-19/"
+            }
+          ],
+          "point": 40600
+        },
+        "ACT4": {
+          "sdgs": [
+            3,
+            5,
+            8,
+            10,
+            11,
+            15,
+            17
+          ],
+          "titles": [
+            {
+              "name": "アフター5講座「ダイバーシティ＆インクルージョン」",
+              "link": ""
+            },
+            {
+              "name": "ユニバーサルマナー検定×大丸有SDGsACT5",
+              "link": "https://act-5.jp/act/2021act4-2/"
+            },
+            {
+              "name": "障害者の働く場、働き方から考える",
+              "link": "https://act-5.jp/act/2021act4-3/"
+            },
+            {
+              "name": "【試飲イベント＆オンラインセミナー】IBUKIのハーブティー",
+              "link": "https://act-5.jp/act/2021act4-5/"
+            }
+          ],
+          "point": 18300
+        },
+        "ACT5": {
+          "sdgs": [
+            17
+          ],
+          "titles": [
+            {
+              "name": "アフター５講座「コミュニケーション」",
+              "link": ""
+            }
+          ],
+          "point": 3300
+        },
+        "ACT1": {
+          "sdgs": [
+            12,
+            14,
+            15
+          ],
+          "titles": [
+            {
+              "name": "アフター５講座「サステナブルフード」",
+              "link": ""
+            }
+          ],
+          "point": 3400
+        },
+        "ACT3": {
+          "sdgs": [
+            1,
+            2,
+            3,
+            4,
+            8,
+            10,
+            11,
+            16,
+            17
+          ],
+          "titles": [
+            {
+              "name": "ACT5 PLAZAイベント（三菱地所社内）",
+              "link": ""
+            },
+            {
+              "name": "イベント「世界を知る×アクション」",
+              "link": "https://act-5.jp/act/2021act3-4/"
+            },
+            {
+              "name": "イベント「Minecraftカップ2021ACT5応援企画」",
+              "link": "https://act-5.jp/act/2021act3-7/"
+            },
+            {
+              "name": "イベント「Marunouchi Work Culture Lab」",
+              "link": "https://act-5.jp/act/2021act3-2/"
+            },
+            {
+              "name": "ACT5歩数チャレンジ表彰式",
+              "link": "https://act-5.jp/act/2021act3-11/"
+            }
+          ],
+          "point": 17750
+        }
+      }
+    },
+    {
+      "id": 32,
+      "name": "ロクシタン丸ビル店",
+      "address": "丸の内2-4-1",
+      "building": "丸の内ビル",
+      "area": "Marunouchi",
+      "acts": [
+        "ACT2"
+      ],
+      "actData": {
+        "ACT2": {
+          "sdgs": [
+            12,
+            13,
+            14,
+            15
+          ],
+          "titles": [
+            {
+              "name": "ロクシタン製品の空き容器の回収",
+              "link": "https://act-5.jp/act/2021act2-8/"
+            }
+          ],
+          "point": 13600
+        }
+      }
+    },
+    {
+      "id": 33,
+      "name": "マッキントッシュフィロソフィー新丸ビル店",
+      "address": "丸の内1-5-1",
+      "building": "新丸ビル",
+      "area": "Marunouchi",
+      "acts": [
+        "ACT2"
+      ],
+      "actData": {
+        "ACT2": {
+          "sdgs": [
+            12,
+            13,
+            14,
+            15,
+            17
+          ],
+          "titles": [
+            {
+              "name": "エコバッグ利用・ショッパー辞退",
+              "link": ""
+            }
+          ],
+          "point": 0
+        }
+      }
+    },
+    {
+      "id": 34,
+      "name": "スーペリアクローゼットMARUNOUCHI 新丸ビル店",
+      "address": "丸の内1-5-1",
+      "building": "新丸ビル",
+      "area": "Marunouchi",
+      "acts": [
+        "ACT2"
+      ],
+      "actData": {
+        "ACT2": {
+          "sdgs": [
+            12,
+            13,
+            14,
+            15,
+            17
+          ],
+          "titles": [
+            {
+              "name": "エコバッグ利用・ショッパー辞退",
+              "link": ""
+            }
+          ],
+          "point": 350
+        }
+      }
+    },
+    {
+      "id": 35,
+      "name": "TOKYO TORCH Park",
+      "address": "大手町2-6-4",
+      "building": "常盤橋タワー",
+      "area": "Otemachi",
+      "acts": [
+        "ACT5"
+      ],
+      "actData": {
+        "ACT5": {
+          "sdgs": [
+            16,
+            17
+          ],
+          "titles": [
+            {
+              "name": "東京ビエンナーレ2020/2021 大きい小さい人",
+              "link": "https://act-5.jp/act/2021act5-2/"
+            }
+          ],
+          "point": 4000
+        }
+      }
+    },
+    {
+      "id": 36,
+      "name": "ete bijoux 新丸ビル店",
+      "address": "丸の内1-5-1",
+      "building": "新丸ビル",
+      "area": "Marunouchi",
+      "acts": [
+        "ACT2"
+      ],
+      "actData": {
+        "ACT2": {
+          "sdgs": [
+            12,
+            14,
+            15,
+            17
+          ],
+          "titles": [
+            {
+              "name": "マイジュエリーポーチ・ボックスの利用",
+              "link": ""
+            }
+          ],
+          "point": 0
+        }
+      }
+    },
+    {
+      "id": 37,
+      "name": "ゴールドウィン丸の内",
+      "address": "丸の内3-2-3",
+      "building": "二重橋スクエア",
+      "area": "Marunouchi",
+      "acts": [
+        "ACT2"
+      ],
+      "actData": {
+        "ACT2": {
+          "sdgs": [
+            12,
+            13,
+            14,
+            15,
+            17
+          ],
+          "titles": [
+            {
+              "name": "衣類修理サービスの利用",
+              "link": ""
+            },
+            {
+              "name": "エコバッグ利用・ショッパー辞退",
+              "link": ""
+            }
+          ],
+          "point": 50
+        }
+      }
+    },
+    {
+      "id": 38,
+      "name": "THE NORTH FACE FLIGHT TOKYO",
+      "address": "丸の内1-4-1",
+      "building": "丸の内永楽ビル",
+      "area": "Marunouchi",
+      "acts": [
+        "ACT2"
+      ],
+      "actData": {
+        "ACT2": {
+          "sdgs": [
+            12,
+            13,
+            14,
+            15,
+            17
+          ],
+          "titles": [
+            {
+              "name": "衣類修理サービスの利用",
+              "link": ""
+            },
+            {
+              "name": "エコバッグ利用・ショッパー辞退",
+              "link": ""
+            },
+            {
+              "name": "使わなくなった衣類の回収",
+              "link": "https://act-5.jp/act/2021act2-3/"
+            }
+          ],
+          "point": 82350
+        }
+      }
+    },
+    {
+      "id": 39,
+      "name": "point 0 marunouchi",
+      "address": "丸の内2-5-1",
+      "building": "丸の内2丁目ビル",
+      "area": "Marunouchi",
+      "acts": [
+        "ACT2"
+      ],
+      "actData": {
+        "ACT2": {
+          "sdgs": [
+            12,
+            14,
+            17
+          ],
+          "titles": [
+            {
+              "name": "使用済みつめかえパック・ハブラシの回収",
+              "link": ""
+            }
+          ],
+          "point": 7200
+        }
+      }
+    },
+    {
+      "id": 40,
+      "name": "よしもと有楽町シアター",
+      "address": "有楽町1-10-1",
+      "building": "有楽町ビル",
+      "area": "Yurakucho",
+      "acts": [
+        "ACT2"
+      ],
+      "actData": {
+        "ACT2": {
+          "sdgs": [
+            12,
+            13,
+            15,
+            17
+          ],
+          "titles": [
+            {
+              "name": "使わなくなった衣類の回収",
+              "link": ""
+            }
+          ],
+          "point": 106200
+        }
+      }
+    },
+    {
+      "id": 41,
+      "name": "丸ビルホール",
+      "address": "丸の内2-4-1",
+      "building": "丸の内ビル",
+      "area": "Marunouchi",
+      "acts": [
+        "ACT5"
+      ],
+      "actData": {
+        "ACT5": {
+          "sdgs": [
+            12
+          ],
+          "titles": [
+            {
+              "name": "大丸有SDGs映画祭2021",
+              "link": "https://act-5.jp/act/2021film/"
+            }
+          ],
+          "point": 6800
+        }
+      }
+    },
+    {
+      "id": 42,
+      "name": "Have a Nice TOKYO!",
+      "address": "丸の内2-5-2",
+      "building": "三菱ビル",
+      "area": "Marunouchi",
+      "acts": [
+        "ACT5"
+      ],
+      "actData": {
+        "ACT5": {
+          "sdgs": [
+            12
+          ],
+          "titles": [
+            {
+              "name": "大丸有SDGs映画祭2021",
+              "link": "https://act-5.jp/act/2021film/"
+            }
+          ],
+          "point": 3600
+        }
+      }
+    },
+    {
+      "id": 43,
+      "name": "DMO東京 丸の内",
+      "address": "丸の内3-2-3",
+      "building": "丸の内二重橋ビル",
+      "area": "Marunouchi",
+      "acts": [
+        "ACT5"
+      ],
+      "actData": {
+        "ACT5": {
+          "sdgs": [
+            12
+          ],
+          "titles": [
+            {
+              "name": "大丸有SDGs映画祭2021",
+              "link": "https://act-5.jp/act/2021film/"
+            }
+          ],
+          "point": 1400
+        }
+      }
+    },
+    {
+      "id": 44,
+      "name": "My Shokudo Hall&Kitchen",
+      "address": "大手町2-6-4",
+      "building": "常盤橋タワー",
+      "area": "Otemachi",
+      "acts": [
+        "ACT1"
+      ],
+      "actData": {
+        "ACT1": {
+          "sdgs": [
+            2,
+            9,
+            12,
+            14,
+            15
+          ],
+          "titles": [
+            {
+              "name": "SUSTABLE セミナーイベントへの参加",
+              "link": "https://act-5.jp/act/2021sustable/"
+            }
+          ],
+          "point": 42200
+        }
+      }
+    },
+    {
+      "id": 45,
+      "name": "三菱地所レジデンス",
+      "address": "大手町1-9-2",
+      "building": "大手町フィナンシャルシティ グランキューブ",
+      "area": "Otemachi",
+      "acts": [
+        "ACT1",
+        "ACT2",
+        "ACT3",
+        "ACT5"
+      ],
+      "actData": {
+        "ACT1": {
+          "sdgs": [
+            2,
+            6,
+            9,
+            12,
+            13,
+            14,
+            15
+          ],
+          "titles": [
+            {
+              "name": "社食でのサステナブル食材の普及",
+              "link": "https://act-5.jp/act/2021act1-2/"
+            },
+            {
+              "name": "ACT5 PLAZAイベント（三菱地所社内）",
+              "link": ""
+            }
+          ],
+          "point": 9200
+        },
+        "ACT2": {
+          "sdgs": [
+            9,
+            11,
+            12,
+            13,
+            14,
+            15,
+            17
+          ],
+          "titles": [
+            {
+              "name": "使わなくなった衣類の回収",
+              "link": "https://act-5.jp/act/2021act2-3/"
+            },
+            {
+              "name": "IDEAS FOR GOODオンラインイベント",
+              "link": ""
+            },
+            {
+              "name": "ACT5 PLAZAイベント（三菱地所社内）",
+              "link": ""
+            }
+          ],
+          "point": 55800
+        },
+        "ACT3": {
+          "sdgs": [
+            3,
+            5,
+            8
+          ],
+          "titles": [
+            {
+              "name": "IDEAS FOR GOODオンラインイベント",
+              "link": ""
+            },
+            {
+              "name": "ACT5 PLAZAイベント（三菱地所社内）",
+              "link": ""
+            }
+          ],
+          "point": 5200
+        },
+        "ACT5": {
+          "sdgs": [
+            11,
+            12,
+            17
+          ],
+          "titles": [
+            {
+              "name": "IDEAS FOR GOOD チェックイン",
+              "link": ""
+            }
+          ],
+          "point": 1060
+        }
+      }
+    },
+    {
+      "id": 46,
+      "name": "Sustaina Station DaiDai",
+      "address": "有楽町1-12-1",
+      "building": "新有楽町ビル",
+      "area": "Yurakucho",
+      "acts": [
+        "ACT1",
+        "ACT2"
+      ],
+      "actData": {
+        "ACT2": {
+          "sdgs": [
+            12,
+            13,
+            14,
+            15,
+            17
+          ],
+          "titles": [
+            {
+              "name": "エコバッグ利用・ショッパー辞退",
+              "link": "https://act-5.jp/act/2021act2-2/"
+            },
+            {
+              "name": "マイ箸・容器の持参",
+              "link": "https://act-5.jp/act/2021act2-20/"
+            },
+            {
+              "name": "マイ箸の持参",
+              "link": "https://act-5.jp/act/2021act2-20/"
+            }
+          ],
+          "point": 200
+        },
+        "ACT1": {
+          "sdgs": [
+            15,
+            17
+          ],
+          "titles": [
+            {
+              "name": "北岩手の魅力を山形村短角牛を通して味わうイベント",
+              "link": "https://act-5.jp/2021/10/11/daidai_iwate/"
+            }
+          ],
+          "point": 2600
+        }
+      }
+    },
+    {
+      "id": 47,
+      "name": "クレアージュ東京",
+      "address": "有楽町1-7-1",
+      "building": "有楽町電気ビル",
+      "area": "Yurakucho",
+      "acts": [
+        "ACT3"
+      ],
+      "actData": {
+        "ACT3": {
+          "sdgs": [
+            3
+          ],
+          "titles": [
+            {
+              "name": "まるのうち保健室健診プログラムへの参加",
+              "link": "https://act-5.jp/act/2021act3-8/"
+            }
+          ],
+          "point": 1500
+        }
+      }
+    },
+    {
+      "id": 48,
+      "name": "マルキューブ",
+      "address": "丸の内2-4-1",
+      "building": "丸の内ビル",
+      "area": "Marunouchi",
+      "acts": [
+        "ACT2",
+        "ACT4"
+      ],
+      "actData": {
+        "ACT4": {
+          "sdgs": [
+            4,
+            11,
+            17
+          ],
+          "titles": [
+            {
+              "name": "キラキラっとアート審査会への参加",
+              "link": "https://act-5.jp/act/2021act4-1/"
+            },
+            {
+              "name": "キラキラっとアートコンクール",
+              "link": "https://act-5.jp/act/2021act4-1/"
+            }
+          ],
+          "point": 15400
+        },
+        "ACT2": {
+          "sdgs": [
+            12,
+            13,
+            15,
+            17
+          ],
+          "titles": [
+            {
+              "name": "使わなくなった衣類の回収",
+              "link": "https://act-5.jp/act/2021act2-3/"
+            }
+          ],
+          "point": 7500
+        }
+      }
+    },
+    {
+      "id": 49,
+      "name": "イースト",
+      "address": "丸の内3-4-1",
+      "building": "新国際ビル",
+      "area": "Marunouchi",
+      "acts": [
+        "ACT3"
+      ],
+      "actData": {
+        "ACT3": {
+          "sdgs": [
+            1,
+            2,
+            3,
+            4,
+            13,
+            15
+          ],
+          "titles": [
+            {
+              "name": "読まなくなった本の寄付",
+              "link": "https://act-5.jp/act/2021act3-3/"
+            }
+          ],
+          "point": 720
+        }
+      }
+    },
+    {
+      "id": 50,
+      "name": "丸の内仲通り周辺",
+      "address": "",
+      "building": "",
+      "area": "Marunouchi",
+      "acts": [
+        "ACT3"
+      ],
+      "actData": {
+        "ACT3": {
+          "sdgs": [
+            3,
+            6,
+            12,
+            13,
+            15,
+            17
+          ],
+          "titles": [
+            {
+              "name": "イベント「丸の内/仲通り周辺でのプロギング」",
+              "link": "https://act-5.jp/act/2021act3-10/"
+            }
+          ],
+          "point": 2000
+        }
+      }
+    },
+    {
+      "id": 51,
+      "name": "AgVenture Lab",
+      "address": "大手町1-6-1",
+      "building": "大手町ビル",
+      "area": "Otemachi",
+      "acts": [
+        "ACT2"
+      ],
+      "actData": {
+        "ACT2": {
+          "sdgs": [
+            13,
+            15
+          ],
+          "titles": [
+            {
+              "name": "食を通じて、私たちを取り巻く環境の変化を考える",
+              "link": "https://act-5.jp/act/2021act2-18/"
+            }
+          ],
+          "point": 9600
+        }
+      }
+    }
+  ],
+  "sdgData": {
+    "All": {
+      "values": {
+        "1": 22960,
+        "2": 65510,
+        "3": 264912,
+        "4": 52610,
+        "5": 20500,
+        "6": 5450,
+        "7": 22500,
+        "8": 32000,
+        "9": 58550,
+        "10": 31800,
+        "11": 61010,
+        "12": 576390,
+        "13": 497490,
+        "14": 132330,
+        "15": 536790,
+        "16": 18450,
+        "17": 537800
+      },
+      "percents": {
+        "1": 1,
+        "2": 2,
+        "3": 9,
+        "4": 2,
+        "5": 1,
+        "6": 0,
+        "7": 1,
+        "8": 1,
+        "9": 2,
+        "10": 1,
+        "11": 2,
+        "12": 20,
+        "13": 17,
+        "14": 5,
+        "15": 18,
+        "16": 1,
+        "17": 18
+      }
+    },
+    "Otemachi": {
+      "values": {
+        "1": 6740,
+        "2": 22090,
+        "3": 62720,
+        "4": 16590,
+        "5": 12700,
+        "6": 2350,
+        "7": 10500,
+        "8": 14100,
+        "9": 23350,
+        "10": 14600,
+        "11": 28160,
+        "12": 175230,
+        "13": 138260,
+        "14": 50630,
+        "15": 157860,
+        "16": 3400,
+        "17": 146490
+      },
+      "percents": {
+        "1": 1,
+        "2": 2,
+        "3": 7,
+        "4": 2,
+        "5": 1,
+        "6": 0,
+        "7": 1,
+        "8": 2,
+        "9": 3,
+        "10": 2,
+        "11": 3,
+        "12": 20,
+        "13": 16,
+        "14": 6,
+        "15": 18,
+        "16": 0,
+        "17": 17
+      }
+    },
+    "Marunouchi": {
+      "values": {
+        "1": 7860,
+        "2": 14160,
+        "3": 65812,
+        "4": 15660,
+        "5": 2700,
+        "6": 800,
+        "7": 3750,
+        "8": 6850,
+        "9": 9400,
+        "10": 7100,
+        "11": 12760,
+        "12": 150300,
+        "13": 148000,
+        "14": 31700,
+        "15": 151400,
+        "16": 2650,
+        "17": 160220
+      },
+      "percents": {
+        "1": 1,
+        "2": 2,
+        "3": 8,
+        "4": 2,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 1,
+        "9": 1,
+        "10": 1,
+        "11": 2,
+        "12": 19,
+        "13": 19,
+        "14": 4,
+        "15": 19,
+        "16": 0,
+        "17": 20
+      }
+    },
+    "Yurakucho": {
+      "values": {
+        "1": 2340,
+        "2": 9140,
+        "3": 19928,
+        "4": 6490,
+        "5": 900,
+        "6": 1400,
+        "7": 1000,
+        "8": 2400,
+        "9": 6150,
+        "10": 2600,
+        "11": 4750,
+        "12": 97880,
+        "13": 92620,
+        "14": 10750,
+        "15": 97320,
+        "16": 8550,
+        "17": 102870
+      },
+      "percents": {
+        "1": 1,
+        "2": 2,
+        "3": 4,
+        "4": 1,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 1,
+        "9": 1,
+        "10": 1,
+        "11": 1,
+        "12": 21,
+        "13": 20,
+        "14": 2,
+        "15": 21,
+        "16": 2,
+        "17": 22
+      }
+    }
+  }
+}
