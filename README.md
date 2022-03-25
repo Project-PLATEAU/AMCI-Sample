@@ -11,6 +11,3 @@ $ npm install
 # localhost:3000 でローカルサーバを起動
 $ npm dev
 ```
-
-## License
-
